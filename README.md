@@ -1,1 +1,1 @@
-# OpinionX-A-Privacy-Preserving-Browser-Extension-
+# OpinionX A Privacy Preserving Browser Extension
